@@ -1,0 +1,7 @@
+{
+    "vscode-corda.isCordaProject": false,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdlib.h": "c"
+    }
+}
