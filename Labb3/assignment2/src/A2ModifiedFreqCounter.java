@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
  * @author Malcolm Liljedahl
  * Created 2021-10-01
  * 
- * Princetons FrequencyCounter, modified to read from file and you scanner
+ * Princetons FrequencyCounter, modified to read files from java scanner
 */
 public class A2ModifiedFreqCounter {
 
